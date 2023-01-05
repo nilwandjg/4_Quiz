@@ -1,4 +1,5 @@
 import Welcome from './components/welcome'
+import './components/Welcome.css';
 
 import './App.css'
 
